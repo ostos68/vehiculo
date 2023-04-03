@@ -1,7 +1,5 @@
-import com.miguel.concesionario.prueba1.Coche;
-import com.miguel.concesionario.prueba1.Concesionario;
-import com.miguel.concesionario.prueba1.Moto;
-import com.miguel.concesionario.prueba1.Vehiculo;
+import com.miguel.concesionario.prueba1.*;
+
 
 import java.util.Arrays;
 
